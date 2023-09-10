@@ -16,5 +16,5 @@ export default defineConfig({
       },
     },
   },
-  base: 'https://cdn.jsdelivr.net/gh/dustinmyers/payson-youth-lacrosse/dist/'
+  base: 'https://cdn.jsdelivr.net/gh/dustinmyers/lax-fee-calc/dist/'
 })
