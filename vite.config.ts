@@ -15,6 +15,7 @@ export default defineConfig({
         app: './src/main.tsx',
       },
     },
+    sourcemap: 'inline'
   },
   base: 'https://cdn.jsdelivr.net/gh/dustinmyers/lax-fee-calc/dist/'
 })
